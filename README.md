@@ -8,3 +8,14 @@
 ## Datasets
 - [Protezione Civile](https://github.com/pcm-dpc/COVID-19)
 - [WHO](https://github.com/CSSEGISandData/COVID-19)
+
+## Results
+Restrictions came in place on January 15th an had a positive impact on the growth rate.
+
+![Growth rate - Italy](./covid19-italy-growth-rate.png)
+
+Time series model based on a "S" curve:
+![Sigmod model - Italy ](./covid19-italy-positives-forecast.png)
+
+There are not enough ICU units, and testing has gradually been restricted to patients with more severe symptoms.
+![Sigmod model - Italy ](./covid19-italy-rates.png)
