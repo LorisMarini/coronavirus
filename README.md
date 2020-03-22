@@ -10,12 +10,17 @@
 - [WHO](https://github.com/CSSEGISandData/COVID-19)
 
 ## Results
-Restrictions came in place on January 15th an had a positive impact on the growth rate.
+- Restrictions (started at around 2020-03-15) reduced the growth rate considerably.
+- Cumulative positives is well described by an "S" curve
+- There are not enough ICU units
+- The infection rate increases over time because testing has gradually been restricted to patients with more severe symptoms, more likely to test positive.
 
+## Resources
+[Exponential growth and epidemics - Youtube](https://www.youtube.com/watch?v=Kas0tIxDvrg&feature=youtu.be)
+
+## Previews
 ![Growth rate - Italy](./covid19-italy-growth-rate.png)
 
-Time series model based on a "S" curve:
 ![Sigmod model - Italy ](./covid19-italy-positives-forecast.png)
 
-There are not enough ICU units, and testing has gradually been restricted to patients with more severe symptoms.
 ![Sigmod model - Italy ](./covid19-italy-rates.png)
