@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LorisMarini/coronavirus/master)
+
 ## What
 1. Data from Italy and Australia and visualise positive cases of COVID19 over time.
 2. Fit a sigmoid model to the cumulative positive count
